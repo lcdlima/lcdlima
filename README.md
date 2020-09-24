@@ -1,5 +1,5 @@
 
-<img align="center" width="200px" alt="GIF" src="https://media.giphy.com/media/d3JtCNegRi2zgmpG/giphy.gif" />
+<p align="center"><img align="center" width="200px" alt="GIF" src="https://media.giphy.com/media/d3JtCNegRi2zgmpG/giphy.gif" /></p>
 
 Olá, me chamo Letícia Lima, moro em São Paulo - SP e estou estudando para ser uma Desenvolvedora Full-Stack Júnior.
 
