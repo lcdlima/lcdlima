@@ -12,7 +12,7 @@
 
 ## Principais tecnologias
 
-- 👩🏽‍💻 Python / MySQL / MongoDB / Javascript / HTML & CSS / React / Redux / Jest 
+- 👩🏽‍💻 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=cyan" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=green" />
 - 📖 Eu atualmente estou estudando Express, que é um framework do Node.js. Com esta ferramenta, estou aprender a criar API's e conectá-las aos meus projetos de front-end.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lcdlima&theme=buefy&layout=compact)
