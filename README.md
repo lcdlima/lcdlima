@@ -1,11 +1,14 @@
 
+<p align="center">
+  <em>
+    Letícia Lima - Desenvolvedora de Software
+  </em>
+</p>
 <p align="center"><img align="center" width="200px" alt="GIF" src="https://media.giphy.com/media/d3JtCNegRi2zgmpG/giphy.gif" /></p>
-
-Olá, me chamo Letícia Lima, moro em São Paulo - SP e estou estudando para ser uma Desenvolvedora Full-Stack Júnior.
 
 ## Principais tecnologias
 
-- 👩🏽‍💻 HTML & CSS / Javascript / React / Redux / Jest / MySQL / MongoDB / Python
+- 👩🏽‍💻 Python / MySQL / MongoDB / Javascript / HTML & CSS / React / Redux / Jest 
 - 📖 Eu atualmente estou estudando Express, que é um framework do Node.js. Com esta ferramenta, estou aprender a criar API's e conectá-las aos meus projetos de front-end.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lcdlima&theme=buefy&layout=compact)
