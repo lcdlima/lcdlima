@@ -1,7 +1,11 @@
 
 <p align="center">
   <em>
-    Letícia Lima - Desenvolvedora de Software
+    Letícia Lima
+    <br>
+    Desenvolvedora de Software
+    <br>
+    Estudante na <a href="https://github.com/tryber">Trybe</a>
   </em>
 </p>
 <p align="center"><img align="center" width="200px" alt="GIF" src="https://media.giphy.com/media/d3JtCNegRi2zgmpG/giphy.gif" /></p>
