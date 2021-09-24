@@ -3,7 +3,7 @@
   <em>
     Letícia Lima
     <br>
-    Data Analyst na <a href='https://ambevtech.com.br/'>Ambev Tech</a>
+    Data Analyst no <a href='https://www.quintoandar.com.br/'>Quinto Andar</a>
     <br>
   </em>
 </p>
